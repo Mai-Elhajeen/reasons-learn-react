@@ -1,5 +1,5 @@
 # **Reasons to Learn React** 🖥️👩‍💻
-*Building a simple web page about some React Facts using React.js.👩‍💻*
+*Building a simple web page about some Reasons to Learn React using React.js.👩‍💻*
 
 ## Skills Used:❤️‍🔥
 📌 npm
